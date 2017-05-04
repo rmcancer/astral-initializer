@@ -21,6 +21,7 @@ body {
     	width: 20%;
     	display: inline-block;
     	.container-two-list{
+    		list-style-type: none;
     		.container-two-list-item{
 
     		}
