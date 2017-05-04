@@ -20,6 +20,7 @@ body {
     .container-two{
     	width: 20%;
     	display: inline-block;
+    	background: #fff;
     	.container-two-list{
     		list-style-type: none;
     		.container-two-list-item{
