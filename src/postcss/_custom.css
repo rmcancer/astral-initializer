@@ -1,5 +1,29 @@
 /* your css goes here! */
 
 body {
-    background-color: blue;
+	width: 90%;
+	margin: 0 auto;
+    background-color: gray;
+    .container-one{
+    	width: 50%;
+    	padding: 20px;
+    	display: inline-block;
+    	border: 1px solid #000;
+    	.container-one-title{
+    		color: #FFF;
+    	}
+    	.container-one-text{
+    		font-style: italic;
+    	}
+    	
+    }
+    .container-two{
+    	width: 20%;
+    	display: inline-block;
+    	.container-two-list{
+    		.container-two-list-item{
+
+    		}
+    	}
+    }
 }
